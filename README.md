@@ -1,5 +1,5 @@
 # A242_STTHK2123_A_GAMEPLAY
-Groupb-based Game enhancement Project for A242 Session, Subject Interaction Systems and Tools
+Group-based Game enhancement Project for A242 Session, Subject Interaction Systems and Tools
 
 YouTube video (original gameplay + source code): https://www.youtube.com/watch?v=1lneuIhrfh4
 
