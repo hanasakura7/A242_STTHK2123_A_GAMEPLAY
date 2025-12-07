@@ -5,7 +5,7 @@ YouTube video (original gameplay + source code): https://www.youtube.com/watch?v
 
 Initial code (GitHub): https://github.com/clickclackcode/python-side-scroller
 
-# Enhanced Features:
+# Enhanced Features
 - Added Main Menu when the game runs, with buttons of options allowing player to Start of Quit the Game
 
 - Added Settings feature for players to have the option to switch the Audio and Sound Effects, on and off
