@@ -5,8 +5,7 @@ YouTube video (original gameplay + source code): https://www.youtube.com/watch?v
 
 Initial code (GitHub): https://github.com/clickclackcode/python-side-scroller
 
-For this project, we enhanced the features of the gameplay by doing the following:
-
+# Enhanced Features:
 - Added Main Menu when the game runs, with buttons of options allowing player to Start of Quit the Game
 
 - Added Settings feature for players to have the option to switch the Audio and Sound Effects, on and off
@@ -17,7 +16,7 @@ For this project, we enhanced the features of the gameplay by doing the followin
 
 - Added collision effect
 
-- Added another obstacle, clouds. If the player clashes with it, 1 life will be deducted
+- Added another obstacle (clouds). If the player clashes with it, 1 life will be deducted
 
 - Added power-up effect
 
